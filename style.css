@@ -3,6 +3,10 @@
     --mavi: #6bc1f1;
     --font: "Montserrat", sans-serif;
 }
+html {
+    scroll-behavior: smooth;
+}
+
 
 *{
     font-family: var(--font);
